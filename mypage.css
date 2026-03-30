@@ -1,0 +1,8 @@
+.hello-button,
+.subscribe-button {
+    color: white;
+    background-color: red;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
